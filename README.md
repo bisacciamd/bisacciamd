@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bisacciamd.
-- 👀 I’m interested in cardiovascular medicine & research. I do my analyses with R and report them in Quarto.
+- 👀 I’m interested in cardiovascular medicine & health economics and outcomes research. I do my analyses with R and report them in Quarto.
 - 🌱 I’m currently learning health technology assessment.
 - 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/bisacciamd/) or visit my [Github Pages website](https://bisacciamd.github.io)!
 
