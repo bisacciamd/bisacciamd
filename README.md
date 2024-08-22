@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Giandomenico.
+## 👋 Hi, I’m [Giandomenico](www.bisacciamd.com).
 - 🔎 An early career physician scientist.
 - 👀 I’m interested in cardiovascular medicine & health economics and outcomes research.
 - 👨‍💻 I mainly code in `R` and report in `Quarto`.
