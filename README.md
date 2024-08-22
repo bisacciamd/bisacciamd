@@ -2,7 +2,7 @@
 - 🔎 An early career physician scientist.
 - 👀 I’m interested in cardiovascular medicine & health economics and outcomes research.
 - 🌱 I’m currently learning health economics and health technology assessment.
-- 🔗 Visit my [portfolio website](https://www.bisacciamd.com) and do get in touch for potential collaboration.
+- 🔗 Visit my [portfolio website](https://www.bisacciamd.com) or access my [CV](https://bisacciamd.com/cv/index.pdf) and do get in touch for potential collaboration.
 
 [![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomenico_Bisaccia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisacciamd/)](https://www.linkedin.com/in/bisacciamd/)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bisacciamd)
