@@ -8,8 +8,8 @@
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bisacciamd)
 ![GitHub followers](https://img.shields.io/github/followers/bisacciamd)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bisacciamd)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bisacciamd&theme=transparent&hide_border=false)](https://git.io/streak-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bisacciamd&theme=transparent&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bisacciamd&theme=transparent&hide_border=false&card_width=400)](https://git.io/streak-stats)
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Coding-green?style=flat&logo=r&color=blue)
