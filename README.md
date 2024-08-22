@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Giandomenico.
 - 🔎 An early career physician scientist.
-- 👀 I’m interested in cardiovascular medicine & health economics and outcomes research. I do my analyses with R and report them in Quarto.
+- 👀 I’m interested in cardiovascular medicine & health economics and outcomes research.
+- 👨‍💻 I mainly code in `R` and report in `Quarto`.
 - 🌱 I’m currently learning health economics and health technology assessment.
 - 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/bisacciamd/) or visit my [Github Pages website](https://bisacciamd.com).
 
