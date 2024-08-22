@@ -3,7 +3,6 @@
 - 👀 I’m interested in cardiovascular medicine & health economics and outcomes research.
 - 👨‍💻 I mainly code in `R` and report in `Quarto`.
 - 🌱 I’m currently learning health economics and health technology assessment.
-- 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/bisacciamd/) or visit my [Github Pages website](https://bisacciamd.com).
 
 [![Twitter: bisacciamd](https://img.shields.io/twitter/follow/bisacciamd?style=social)](https://twitter.com/bisacciamd)
 [![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomenico-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisacciamd/)](https://www.linkedin.com/in/bisacciamd/)
