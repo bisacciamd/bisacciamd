@@ -5,8 +5,8 @@
 - 🔗 Visit my [portfolio website](https://www.bisacciamd.com) or access my [CV](https://bisacciamd.com/cv/index.pdf) and do get in touch for potential collaboration.
 
 [![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomenico_Bisaccia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisacciamd/)](https://www.linkedin.com/in/bisacciamd/)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bisacciamd)
 ![GitHub followers](https://img.shields.io/github/followers/bisacciamd)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bisacciamd)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bisacciamd&theme=transparent&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=bisacciamd&theme=transparent&hide_border=false&card_width=400)](https://git.io/streak-stats)
