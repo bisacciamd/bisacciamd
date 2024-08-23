@@ -1,4 +1,4 @@
-## 👋 Hi, I’m [Giandomenico](https://www.bisacciamd.com).
+## 👋 Hi, I’m [Giandomenico](https://www.bisacciamd.com)
 - 🔎 An early career physician scientist.
 - 👀 I’m interested in cardiovascular medicine & health economics and outcomes research.
 - 🌱 I’m currently learning health economics and health technology assessment.
