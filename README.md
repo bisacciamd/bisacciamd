@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m [Giandomenico](https://www.bisacciamd.com)
-- 🔎 An early career physician-scientist.
+- 🔎 An early career physician-scientist, training in cardiology.
 - 👀 I’m interested in cardiovascular medicine & health economics and outcomes research.
 - 🌱 I’m currently learning health economics and health technology assessment.
 - 🔗 Visit my [portfolio website](https://www.bisacciamd.com) or access my [online CV](https://cv.bisacciamd.com/) and do get in touch for potential collaboration.
