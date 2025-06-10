@@ -3,8 +3,8 @@
 - 🌱 I provide consultancy in evidence synthesis, health economics and outcomes research.
 - 🔗 You can reach out to me via my [website](https://www.bisacciamd.com) or access my [online CV](https://cv.bisacciamd.com/).
 
-![Static Badge](https://img.shields.io/badge/Linked-in-blue)
-[![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomenico_Bisaccia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisacciamd/)](https://www.linkedin.com/in/bisacciamd/)
+
+Linked-In —> [![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomenico_Bisaccia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisacciamd/)](https://www.linkedin.com/in/bisacciamd/)
 ![GitHub followers](https://img.shields.io/github/followers/bisacciamd)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bisacciamd)
 
