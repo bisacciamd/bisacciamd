@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m [Giandomenico](https://www.bisacciamd.com)
 - 🔎 An early career physician-scientist, training in cardiology.
-- 👀 I’m interested in cardiovascular imaging and outcomes research.
-- 🌱 I’m currently learning health economics and health technology assessment.
-- 🔗 Visit my [portfolio website](https://www.bisacciamd.com) or access my [online CV](https://cv.bisacciamd.com/) and do get in touch for potential collaboration.
+- 🌱 I provide consultancy in evidence synthesis, health economics and outcomes research.
+- 🔗 You can reach out to me via my [website](https://www.bisacciamd.com) or access my [online CV](https://cv.bisacciamd.com/).
 
 ![Static Badge](https://img.shields.io/badge/Let's_connect-on-blue)
 [![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomenico_Bisaccia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisacciamd/)](https://www.linkedin.com/in/bisacciamd/)
