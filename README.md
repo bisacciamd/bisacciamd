@@ -3,8 +3,7 @@
 - 🌱 I provide consultancy in evidence synthesis, health economics and outcomes research.
 - 🔗 You can reach out to me via my [website](https://www.bisacciamd.com) or access my [online CV](https://cv.bisacciamd.com/).
 
-
-Linked-In —> [![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomenico_Bisaccia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisacciamd/)](https://www.linkedin.com/in/bisacciamd/)
+[![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomenico_Bisaccia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisacciamd/)](https://www.linkedin.com/in/bisacciamd/)
 ![GitHub followers](https://img.shields.io/github/followers/bisacciamd)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bisacciamd)
 
@@ -15,3 +14,7 @@ Linked-In —> [![Linkedin: bisacciamd](https://img.shields.io/badge/-Giandomeni
 ![Static Badge](https://img.shields.io/badge/Coding-green?style=flat&logo=r&color=blue)
 ![Static Badge](https://img.shields.io/badge/Reporting-green?style=flat&logo=quarto&color=blue)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+
+# NOTICE * Transition to self-hosted Git
+- Since late 2025, I have transitioned to a self-hosted Git server using [Forgejo](https://forgejo.org/).
+- I still maintain my website & CV on GitHub, but prefer to host my projects locally.
